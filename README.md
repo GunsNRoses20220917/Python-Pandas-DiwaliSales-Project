@@ -1,8 +1,4 @@
-# Python-Pandas-Projects
-Python Pandas Projects
-This repository contains Python Pandas Projects.
-Python Pandas is a very popular widely used Python library which is used for Data Analysis. 
-
+# Python-Pandas-DiwaliSales-Projects
 Project 1: 
 Project 1 is data analysis project for Diwali sales.
 The objective of Project 1 is to find 
